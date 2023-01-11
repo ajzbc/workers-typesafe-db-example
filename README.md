@@ -2,7 +2,7 @@
 
 An example Cloudflare Worker API with a typesafe database
 
-[Demo](https://example.ajzbc.com/posts/all)
+[Demo](https://example.ajzbc.com/post/all)
 
 ## Stack
 
