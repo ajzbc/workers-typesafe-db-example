@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS posts (
+  id integer  PRIMARY KEY AUTOINCREMENT,
+  content text NOT NULL,
+  created_at datetime NOT NULL DEFAULT CURRENT_TIMESTAMP
+);

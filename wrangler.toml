@@ -1,0 +1,8 @@
+name = "example"
+main = "src/index.ts"
+compatibility_date = "2023-01-11"
+
+[[ d1_databases ]]
+binding = "DB"
+database_name = "example"
+database_id = "bf318829-7bea-4d1f-82ad-9821aad7d36e"
