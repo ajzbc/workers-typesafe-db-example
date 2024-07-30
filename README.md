@@ -2,8 +2,6 @@
 
 An example Cloudflare Worker API with a typesafe database
 
-[Demo](https://example.ajzbc.com/post/all)
-
 ## Stack
 
 -   [Cloudflare Workers](https://developers.cloudflare.com/workers/) (serverless)
